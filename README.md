@@ -1,7 +1,7 @@
 # TicTacToe-Game
 
 ## Overview
-This Java-based Tic-Tac-Toe game is a simple yet engaging project that demonstrates the implementation of Object-Oriented Programming (OOP) principles. The game is designed with clarity and extensibility in mind, making it an excellent resource for Java enthusiasts and learners.
+This Java-based Tic-Tac-Toe game is a simple yet engaging project that demonstrates the implementation of Object-Oriented Programming (OOP) principles. The game is designed with clarity and extensibility.
 
 ## Features
 ### Object-Oriented Design: 
